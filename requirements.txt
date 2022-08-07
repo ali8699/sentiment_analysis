@@ -22,7 +22,6 @@ cssselect==1.1.0
 cv2-tools==2.4.0
 cymem==2.0.6
 cytoolz==0.11.0
-datashape==0.5.4
 Django==4.0.5
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
 et-xmlfile==1.1.0
