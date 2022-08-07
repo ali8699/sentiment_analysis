@@ -15,9 +15,6 @@ certifi==2021.10.8
 ChatterBot==1.0.4
 chatterbot-corpus==1.2.0
 comtypes==1.1.10
-conda==4.13.0
-conda-build==3.21.8
-conda-verify==3.4.2
 constantly==15.1.0
 contractions==0.1.72
 Counter==1.0.0
