@@ -110,6 +110,5 @@ win-unicode-console==0.5
 wincertstore==0.2
 wordcloud==1.8.2.2
 xgboost==1.6.1
-xlwings==0.24.9
 youtubecomments==0.1
 zict==2.0.0
